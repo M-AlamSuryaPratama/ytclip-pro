@@ -1,0 +1,23 @@
+# Jangan track file besar/video
+downloads/*
+!downloads/.gitkeep
+
+temp/*
+!temp/.gitkeep
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# File environment
+.env
+config.php
+
+# File besar
+*.mp4
+*.mkv
+*.webm
+*.zip
