@@ -1,0 +1,3 @@
+# Isi file .gitkeep (bisa kosong atau kasih note):
+echo "# Folder untuk menyimpan hasil download" > downloads/.gitkeep
+echo "# Temporary files (auto cleanup)" > temp/.gitkeep
